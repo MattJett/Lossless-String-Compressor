@@ -1,0 +1,44 @@
+=== HUFFMAN ENCODER ===
+
+Input
+-----
+Nodes : 1 E 
+Encode: 11111
+Decode: EEEEE
+
+
+Diagnostics
+-----------
+Length: 5
+Speed: 34.3859000ms
+
+
+
+Input
+-----
+Nodes : 4 I 6 S 7 T 10 H 22 A 23 E 
+Encode: 110100010001001101101111011
+Decode: THISISATEST
+
+
+Diagnostics
+-----------
+Length: 27
+Speed: 1.3853000ms
+
+
+
+Input
+-----
+Nodes : 2 A 13 K 24 I 25 L 28 R 29 W 30 N 31 P 
+Encode: 0110101001101100011100111101100101
+Decode: AWALKINAPARK
+
+
+Diagnostics
+-----------
+Length: 34
+Speed: 0.3735000ms
+
+
+

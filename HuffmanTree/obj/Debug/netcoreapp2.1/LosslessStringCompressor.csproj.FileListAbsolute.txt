@@ -1,0 +1,11 @@
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\LosslessStringCompressor.deps.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\LosslessStringCompressor.runtimeconfig.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\LosslessStringCompressor.runtimeconfig.dev.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\LosslessStringCompressor.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\LosslessStringCompressor.pdb
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\LosslessStringCompressor.csproj.CoreCompileInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\LosslessStringCompressor.AssemblyInfoInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\LosslessStringCompressor.AssemblyInfo.cs
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\LosslessStringCompressor.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\LosslessStringCompressor.pdb
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\documentation.xml

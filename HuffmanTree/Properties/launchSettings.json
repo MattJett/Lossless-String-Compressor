@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SpringTimeForHuffman": {
+      "commandName": "Project",
+      "commandLineArgs": "< test.txt > results.txt",
+      "workingDirectory": "C:\\Users\\serap\\Google Drive\\School\\CSCD 320 - Algorithms\\Assignments\\AS4 - Springtime for Huffman\\SpringTimeForHuffman"
+    }
+  }
+}

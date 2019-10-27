@@ -1,0 +1,12 @@
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\SpringTimeForHuffman.deps.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\SpringTimeForHuffman.runtimeconfig.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\SpringTimeForHuffman.runtimeconfig.dev.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\SpringTimeForHuffman.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\SpringTimeForHuffman.pdb
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\SpringTimeForHuffman.csprojAssemblyReference.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\SpringTimeForHuffman.csproj.CoreCompileInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\SpringTimeForHuffman.AssemblyInfoInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\SpringTimeForHuffman.AssemblyInfo.cs
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\SpringTimeForHuffman.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\obj\Debug\netcoreapp2.1\SpringTimeForHuffman.pdb
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS4 - Springtime for Huffman\SpringTimeForHuffman\bin\Debug\netcoreapp2.1\SpringTimeForHuffman.xml

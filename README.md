@@ -1,0 +1,5 @@
+# Lossless String Compressor
+This was a class assignment that taught us about Huffman trees. I went above and beyond by figuring out on my own how to incorporate a string decoder into this project when it was not an assignment requirement. I also added a Stopwatch timer to my encoding algorithm and tested it against many other's in class that I convinced to complete with me -- including our instructor. The results of my algorithmic speed were well above average from the rest of the class and I naturally lost to my instructor, but I learned much from what he did to beat me.
+
+## How to Run this Console App
+This is a .Net Core 2.1 Visual Studio Console App that can be launched by opening up the "SpringTimeForHuffman.sln" solution file found in the root directory in Visual Studio 2017. This app uses standard-in and standard-out for it's input and output. I have debug application arguments set that when the application is run, it will take in a pipped-in tester file called, "test.txt" and pipe-out an output file called, "results.txt".

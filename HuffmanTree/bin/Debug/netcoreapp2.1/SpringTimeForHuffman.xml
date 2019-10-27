@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpringTimeForHuffman</name>
+    </assembly>
+    <members>
+        <member name="T:SpringTimeForHuffman.Huffman">
+            <summary>
+            	The main <c>Huffman</c> class.
+            	This class takes in a standard input,
+            	impliments its own huffman tree structure.
+            </summary>
+            <remarks>
+            	There are three public methods in this class.
+            	<list type="bullet">
+            		<item>
+            			<term>Encode</term>
+            			<description>Encodes standard input into it's huffman code.</description>
+            		</item>
+            		<item>
+            			<term>Decode</term>
+            			<description>Decodes the huffman code back into it's original message.</description>
+            		</item>
+            		<item>
+            			<term>DataLiteral</term>
+            			<description>Returns each character in tree and the position in tree.</description>
+            		</item>
+            	</list>
+            </remarks>
+        </member>
+        <member name="M:SpringTimeForHuffman.Huffman.DataLiteral">
+            <summary>
+            	This method returns a single line string output of each distinct character's
+            	logical position in ascending order in the tree in integer form followed by the character itself.
+            </summary>
+            <returns>
+            	String literal formated as: <c>{position} {character}</c> to standard output.
+            </returns>
+        </member>
+        <member name="M:SpringTimeForHuffman.Huffman.Encode(System.String)">
+            <summary>
+            	This method will take in standard input and
+            	count the distinct character frequencies,
+            	sort them in ascending order,
+            	convert the distinct characters into individual nodes,
+            	build a huffman tree from these nodes,
+            	traverse back down the tree calculating the code for each character,
+            	then append each character's code from the input into a single line of 0's and 1's.
+            </summary>
+            <param name="input">Standard input</param>
+            <returns>
+            	Input's huffman code to standard output.
+            </returns>
+        </member>
+        <member name="M:SpringTimeForHuffman.Huffman.Decode">
+            <summary>
+            	This method will take in the same input's encoded message and
+            	convert the 0's and 1's back into it's original message verbatim.
+            </summary>
+            <returns>
+            	The decoded message exactly how it appeared from standard input to standard output.
+            </returns>
+        </member>
+        <member name="M:SpringTimeForHuffman.Huffman.Clear">
+            <summary>
+            	A clearing method to wipe data from static method properties.
+            	Needed in order to keep entering new data in.
+            </summary>
+        </member>
+    </members>
+</doc>

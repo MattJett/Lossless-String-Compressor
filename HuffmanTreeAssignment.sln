@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LosslessStringCompressor", "SpringTimeForHuffman\LosslessStringCompressor.csproj", "{E3B5ABF6-4F7B-4974-9BE9-BEAB589450DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3B5ABF6-4F7B-4974-9BE9-BEAB589450DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B5ABF6-4F7B-4974-9BE9-BEAB589450DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B5ABF6-4F7B-4974-9BE9-BEAB589450DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B5ABF6-4F7B-4974-9BE9-BEAB589450DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9EB4C89-C4E4-4AB3-A9AC-1C4F6B5DC39A}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
